@@ -1,0 +1,27 @@
+body{
+	background-color: lightblue;
+	font-family: "Comic Sans MS";
+	font-size: 9px;
+
+}
+
+table{
+	border-collapse: collapse;
+    border: 1px solid black;
+    border-spacing: 5px;
+    font-family: "Comic Sans MS";
+	font-size: 12px;
+}
+table td{
+    border: 1px solid black;
+    padding: 5px; 
+  }
+ table th{
+    border: 1px solid black;
+    padding: 5px; 
+  }
+
+.html5badge {
+background-image: url(html5_badge20.png);
+background-repeat: no-repeat;
+background-position: right;
